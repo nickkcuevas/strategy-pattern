@@ -1,5 +1,10 @@
 Strategy Example In Python
 
+“This repository accompanies the article The Strategy Pattern: A SOLID Corollary, and shows how Strategy emerges naturally from Open/Closed in Python.”
+
+https://nickkkcuevas.medium.com/the-strategy-pattern-a-solid-corollary-in-python-07e0861162b3
+
+
 So, first you need to run this:
 
 $ virtualenv venv
@@ -31,3 +36,5 @@ curl "http://localhost:8000/api/data?format=yaml"
 
 # TOML
 curl "http://localhost:8000/api/data?format=toml"
+
+
